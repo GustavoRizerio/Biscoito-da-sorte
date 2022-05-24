@@ -34,7 +34,7 @@ plataform: Vscode
 
 <div align="center">
     
-<h1>Result:</h1>
+<h1>Result</h1>
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/97844175/167236954-73306028-2470-40a1-bbca-16eb0236923d.gif)
     
