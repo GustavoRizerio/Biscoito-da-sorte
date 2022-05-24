@@ -30,9 +30,10 @@ plataform: Vscode
 
 + npm install
 + npm start ou expo start
-
++ 
+<div align="center">
 ## Result:
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/97844175/167236954-73306028-2470-40a1-bbca-16eb0236923d.gif)
-
+</div> 
 
